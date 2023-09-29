@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChatsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_message">Send Message</string>
+    <string name="type_your_message_here">Type Your Message Here</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="logs_current_user_out">Logs Current User Out</string>
+    <string name="log_out">Log Out</string>
+    <string name="add_friend_">Add Friend</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account ?</string>
+    <string name="signup">SignUp</string>
+</resources>
